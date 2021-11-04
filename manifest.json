@@ -2,7 +2,7 @@
     "name": "BlogDeCafé",
     "short_name": "BlogDeCafé",
     "description": "Página web de blog de café",
-    "background_color": "rgba(255, 0, 0, 0);",
+    "background_color": "#e1e1e1",
     "theme_color": "#784D3C",
     "orientation": "portrait",
     "display": "standalone",

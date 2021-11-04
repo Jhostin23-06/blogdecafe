@@ -1,0 +1,31 @@
+{
+    "name": "BlogDeCafé",
+    "short_name": "BlogDeCafé",
+    "description": "Página web de blog de café",
+    "background_color": "#e1e1e1",
+    "theme_color": "#784D3C",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-MX",
+    "icons": [
+        {
+            "src": "./img/cafe200.png",
+            "sizes": "200x200",
+            "type": "image/png"
+        },
+
+        {
+            "src": "./img/cafe400.png",
+            "sizes": "400x400",
+            "type": "image/png"
+        },
+
+        {
+            "src": "./img/cafe.png",
+            "sizes": "100x100",
+            "type": "image/png"
+        }
+    ]
+}
